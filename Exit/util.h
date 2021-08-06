@@ -3,7 +3,7 @@
 #ifndef __COLOR_LIST_
 #define __COLOR_LIST_
 
-//»ö±ò Á¤ÀÇ
+//ìƒ‰ê¹” ì •ì˜
 enum
 {
     black,
@@ -25,7 +25,7 @@ enum
 };
 #endif // __COLOR_LIST_
 
-//ÇÔ¼ö Á¤ÀÇ
+//í•¨ìˆ˜ ì •ì˜
 void init();
 void gotoxy(int, int);
 void setColor(int, int);
